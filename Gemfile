@@ -9,3 +9,8 @@ gem "constructor"
 gem "diy"
 gem "rr"
 gem "thor"
+
+gem 'pry'
+gem 'pry-remote'
+gem 'pry-stack_explorer'
+gem 'pry-debugger'

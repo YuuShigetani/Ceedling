@@ -5,3 +5,6 @@ tags
 ceedling.sublime-project
 ceedling.sublime-workspace
 ceedling-*.gem
+
+/.bundle
+/vendor/bundler
